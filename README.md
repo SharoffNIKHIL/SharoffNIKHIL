@@ -18,7 +18,7 @@ Welcome to My GitHub Profile!
 
 📫 How to Reach Me
 - Email: sharoffnikhil76@gmail.com
-- LinkedIn: [Nikhil Sharoff](https://www.linkedin.com/in/sharoffnikhil)
+- LinkedIn: [Nikhil Sharoff](linkedin.com/in/nikhil-sharoff-7a75872a6)
 
 😄 Pronouns
 - He/Him
