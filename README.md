@@ -17,8 +17,9 @@ Welcome to My GitHub Profile!
 - Implementing automated deployment workflows using tools like Jenkins, GitHub Actions, and Ansible.
 
 📫 How to Reach Me
-- Email: sharoffnikhil76@gmail.com
-- LinkedIn: [Nikhil Sharoff](linkedin.com/in/nikhil-sharoff-7a75872a6)
+- **Email:** sharoffnikhil76@gmail.com
+- **LinkedIn:** [Nikhil Sharoff](linkedin.com/in/nikhil-sharoff-7a75872a6)
+- **Mobile:** 9030436162
 
 😄 Pronouns
 - He/Him
@@ -28,40 +29,40 @@ Welcome to My GitHub Profile!
 
 ---
 
-Career Objective
+**Career Objective**
 To work in a highly competitive environment to enhance my technical skills and job prospects, while being a key and responsible team member for the organization, striving for excellence.
 
 ---
 
-Profile Summary
+**Profile Summary**
 - **DevOps Engineer** with expertise in tools like Git, Maven, Jenkins, Ansible, Docker, and Kubernetes.
 - Extensive experience managing infrastructure on AWS and GCP.
 - Skilled in Configuration Management, Build, Release Management, Containerization, and Container Orchestration.
 
-Technical Skills
+**Technical Skills**
 
-Cloud & Infrastructure
+**Cloud & Infrastructure**
 - **AWS**: EC2, EBS, ELB, ASG, S3, Route53, CloudWatch, IAM, VPC, Terraform
 - **GCP**: Compute Engine, Kubernetes Engine, Cloud Storage, Cloud SQL, BigQuery, Pub/Sub
 
-CI/CD & Automation
+**CI/CD & Automation**
 - **Tools**: Git, GitHub, Jenkins, GitHub Actions
 - **Build Tools**: Maven, NPM, Yarn
 - **Scripting**: Shell, Python
 
-Containerization & Orchestration
+**Containerization & Orchestration**
 - **Docker**: Creating images, Docker Compose
 - **Kubernetes**: Helm, YAML manifests, Kubeadm, KOPS
 
-Configuration Management
+**Configuration Management**
 - **Ansible**: Managing server configurations, system file setups, software upgrades
 
-Monitoring & Logging
+**Monitoring & Logging**
 - **Tools**: Datadog, Prometheus, Grafana
 
-Professional Experience
+**Professional Experience**
 
-Techies Infotech Pvt Ltd. | DevOps Engineer | May 2018 - Present
+**Techies Infotech Pvt Ltd. | DevOps Engineer | May 2018 - Present**
 Project: Dyson
 - Implemented CI/CD pipelines using Jenkins and GitHub Actions.
 - Managed infrastructure with Terraform and Ansible on AWS.
@@ -79,14 +80,14 @@ Project: Lowes (RONA)
 
 ---
 
-Tools & Technologies
-- Operating Systems: Ubuntu, CentOS, Red Hat
-- Web/Application Servers: Apache Tomcat
-- Version Control: GIT
-- Bug Tracking: JIRA
-- Infrastructure as Code: Terraform
-- Monitoring Tools: Datadog, Prometheus, Grafana
-- Applications: MOBAXTERM, PUTTY, WINSCP
+**Tools & Technologies**
+- **Operating Systems:** Ubuntu, CentOS, Red Hat
+- **Web/Application Servers:** Apache Tomcat
+- **Version Control:** GIT
+- **Bug Tracking:** JIRA
+- **Infrastructure as Code:** Terraform
+- **Monitoring Tools:** Datadog, Prometheus, Grafana
+- **Applications:** MOBAXTERM, PUTTY, WINSCP
 
 ---
 
