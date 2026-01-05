@@ -92,7 +92,3 @@ Project: Lowes (RONA)
 ---
 
 For more details, check out my repositories or feel free to reach out via email! Let's connect and collaborate on exciting projects.
-<!---
-SharoffNIKHIL/SharoffNIKHIL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
