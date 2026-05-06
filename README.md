@@ -1,6 +1,6 @@
 Welcome to My GitHub Profile!
 
-👋 Hi, I’m **Nikhil Sharoff**, a DevOps Engineer with 6 years of experience in the IT industry. 
+👋 Hi, I’m **Nikhil Sharoff**, a DevOps Engineer with 7 years of experience in the IT industry. 
 
 ---
 
